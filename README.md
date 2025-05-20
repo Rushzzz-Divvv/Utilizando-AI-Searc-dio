@@ -1,1 +1,5 @@
 # Utilizando-AI-Searc-dio
+
+Na minha jornada de aprendizado com o Azure AI Search, me dediquei a explorar a fundo os aspectos da indexação e da pesquisa inteligente de dados na nuvem. Descobri como pegar grandes quantidades de informações soltas e transformá-las em material que pode ser pesquisado, encontrado facilmente e bem organizado. Aos poucos, fui entendendo tudo, começando pelos princípios básicos de como funcionam os motores de busca com inteligência artificial e chegando até a usar modelos na prática para tirar e achar informações importantes.
+
+No começo, entendi que o Azure AI Search é uma ferramenta poderosa para criar sistemas de busca incríveis dentro de aplicativos e empresas. Aprendi a montar um serviço de busca, criar índices e escolher quais partes dos dados são importantes para as buscas, como textos, datas, números de identificação e palavras-chave. Para criar o índice, precisei prestar muita atenção em como os dados estavam organizados, e isso me fez pensar em como é importante organizar bem os dados para que as buscas funcionem melhor.
